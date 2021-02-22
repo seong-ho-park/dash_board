@@ -1,2 +1,2 @@
 # dash_board
-dash_board_prototype
+대시보드 형 웹 입니다.
